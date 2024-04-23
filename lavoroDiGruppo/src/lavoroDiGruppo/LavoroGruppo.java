@@ -6,5 +6,5 @@ public class LavoroGruppo {
 		// TODO Auto-generated method stub
 
 	}
-
+// prova Roberta
 }
